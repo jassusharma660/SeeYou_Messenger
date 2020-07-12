@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "545449396955",
+    "firebase_url": "https://messangerforseeyou.firebaseio.com",
+    "project_id": "messangerforseeyou",
+    "storage_bucket": "messangerforseeyou.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545449396955:android:0754bed8480a8cfabf1afe",
+        "android_client_info": {
+          "package_name": "com.jassusharma.messangerforseeyou"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545449396955-d3f6l3kkpljmpcrrq3hj462lelk3b42r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUIcfeojBR_AkW0dP6yZTy_1Uf9flYdBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545449396955-d3f6l3kkpljmpcrrq3hj462lelk3b42r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
